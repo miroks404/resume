@@ -33,7 +33,7 @@
 `Kotlin`
 
 ### **UI**
-`Jetpack Compose`, `XML`
+`Jetpack Compose` `XML`
 
 ### **Android технологии**
 `Android SDK` `Single Activity` `MVVM` `MVI`
