@@ -30,10 +30,13 @@
 ## 🛠 **Технические навыки**
 
 ### **Языки программирования**
-`Kotlin` `XML`
+`Kotlin`
+
+### **UI**
+`Jetpack Compose`, `XML`
 
 ### **Android технологии**
-`Android SDK` `Jetpack Compose` `Single Activity` `MVVM` `MVI`
+`Android SDK` `Single Activity` `MVVM` `MVI`
 
 ### **Базы данных**
 `Room` `SQLite`
